@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\bin\Debug\AulaWF01Arquivos.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\bin\Debug\AulaWF01Arquivos.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\bin\Debug\AulaWF01Arquivos.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\obj\Debug\AulaWF01Arquivos.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\obj\Debug\AulaWF01Arquivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\obj\Debug\AulaWF01Arquivos.Form1.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\obj\Debug\AulaWF01Arquivos.Properties.Resources.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\obj\Debug\AulaWF01Arquivos.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\obj\Debug\AulaWF01Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\obj\Debug\AulaWF01Arquivos.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaWF01Arquivos\obj\Debug\AulaWF01Arquivos.pdb
